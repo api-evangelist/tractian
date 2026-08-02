@@ -1,0 +1,37 @@
+generated: '2026-07-21'
+method: searched
+source: https://tractian.com/en/blog/categories/releases
+description: >-
+  Tractian publishes product release notes as a "Product Releases" category on
+  its blog rather than a dated, versioned API changelog. Entries below are the
+  recent window captured from the listing page (newest first). The listing page
+  does not expose publication dates or version numbers, so none are recorded.
+scheme: release-notes
+current_version: null
+entries:
+  - title: "Introducing Asset Library: The OEM Data Layer Behind More Reliable Monitoring"
+    url: https://tractian.com/en/blog/asset-library-us-release
+  - title: "Introducing Analyses"
+    url: https://tractian.com/en/blog/analyses-us-release
+  - title: "AI Transcription for Voice Notes Across the Platform"
+    url: https://tractian.com/en/blog/ai-transcription-for-voice-notes-release
+  - title: "Custom Fields for CMMS Configuration"
+    url: https://tractian.com/en/blog/custom-fields-for-cmms-configuration-release
+  - title: "Auto-generated SOPs: Standard Operating Procedures with AI"
+    url: https://tractian.com/en/blog/auto-generated-sop-with-ai-release
+  - title: "Failure Lifecycle Tracking"
+    url: https://tractian.com/en/blog/failure-lifecycle-tracking-release
+  - title: "Multiple Insights Analysis into One Inspection"
+    url: https://tractian.com/en/blog/multiple-insights-analysis-into-one-inspection-release
+  - title: "Downtime Control and Custom Workflow for Failures"
+    url: https://tractian.com/en/blog/downtime-control-and-custom-workflow-for-failures-release
+  - title: "Insight Grouping for Failure Management"
+    url: https://tractian.com/en/blog/insight-grouping-failure-management-release
+  - title: "Planning and Scheduling Work Orders"
+    url: https://tractian.com/en/blog/planning-and-scheduling-work-orders-release
+  - title: "Optimized Technician Routes in the App"
+    url: https://tractian.com/en/blog/optimized-technician-routes-in-the-app-release
+  - title: "Asset Availability Real-Time Calculation"
+    url: https://tractian.com/en/blog/asset-availability-real-time-calculation-release
+  - title: "Maximizing Asset Reliability with Ultra Sensor"
+    url: https://tractian.com/en/blog/maximizing-asset-reliability-with-ultra-sensor-release

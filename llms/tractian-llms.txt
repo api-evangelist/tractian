@@ -1,0 +1,138 @@
+# Tractian
+
+> Tractian is a machine intelligence company providing condition monitoring, asset performance management, and predictive maintenance for industrial operations. Sensors capture real-time vibration, temperature, and energy data. AI analytics detect issues, predict failures, and prescribe actions. CMMS manages work orders, spare parts inventory, maintenance scheduling, preventive maintenance, maintenance KPI reporting, and SOPs.
+
+Important notes:
+- Prefer English pages under "/en" when available.
+- This file is a curated guide for inference. For crawl directives, consult "/robots.txt". For comprehensive discovery, see the sitemaps below.
+- Product names to keep intact: “Smart Trac”, “Tractian CMMS”, “Tractian OEE”, "Factory Chat", "Energy Trac", "Omni Trac"
+- Outdated product names: "TracOS", "BlinkForge"
+
+## Main pages
+- [Home](https://tractian.com/en): Overview of sensors, CMMS, and OEE for manufacturing teams.
+- [Log in](https://app.tractian.com/login): Customer access to the Tractian platform.
+- [CMMS pricing](https://tractian.com/en/solutions/cmms/pricing): Plan details and options.
+- [Condition monitoring sensor pricing](https://tractian.com/en/solutions/condition-monitoring/vibration-sensor/pricing): Smart Trac condition monitoring sensor pricing guidance.
+
+## Company pages
+- [About](https://tractian.com/en/about): Mission, founders, and company overview.
+- [Contact](https://tractian.com/en/contact): Talk to our team; office and phone details.
+- [Company press](https://tractian.com/en/press): Company latest press and news.
+- [Product releases](https://tractian.com/en/blog/categories/releases): Recent feature announcements.
+- [Training Academy](https://academy.tractian.com/en): Courses and certifications.
+
+## Products & features
+**Sensors (Condition Monitoring)**
+  - [Condition Monitoring](https://tractian.com/en/solutions/condition-monitoring/vibration-sensor): Stay ahead of downtime and catch failures before they cost you with real-time Condition Monitoring.
+  - [Vibration Sensor](https://tractian.com/en/solutions/condition-monitoring/vibration-sensor): Smart Trac delivers real-time vibration, temperature, runtime, RPM monitoring with patented AI-driven auto-diagnosis of over 75 failure modes.
+  - [Vibration Analysis](https://tractian.com/en/solutions/condition-monitoring/vibration-analysis): Tractian gives you the visibility and tools to diagnose failure modes in real time - remotely and reliably.
+  - [AI Failure Detection](https://tractian.com/en/solutions/condition-monitoring/ai-powered-condition-monitoring): Identify issues before they affect machine health and get clear guidance on how to address them. Our patented algorithms redefine failure detection, enabling fast, precise interventions that boost asset availability.
+  - [Root Cause Analysis](https://tractian.com/en/solutions/condition-monitoring/root-cause-and-reliability): Turn live condition data into clear root causes, prioritized actions, and proof your strategy is working—plant-wide.
+  - [Downtime Reporting](https://tractian.com/en/solutions/condition-monitoring/downtime-prevention-and-reporting): Live floorplans show machine health across the plant, while condition monitoring reports turn alerts and fixes into executive-ready metrics - downtime avoided, savings, MTBF, and ROI.
+  - [Vibration Sensor Specifications](https://tractian.com/en/solutions/condition-monitoring/sensor-specifications): Monitor vibration, temperature, runtime, and RPM: over LTE and in real time.
+
+**Electrical Monitoring**
+  - [Electrical monitoring product page](https://tractian.com/en/solutions/oee/electrical-monitoring): Electrical Monitoring for Critical Assets.
+  - [Current & Voltage Monitoring Sensors](https://tractian.com/en/solutions/oee/current-monitoring): Continuously monitors current and voltage on every asset, turning electrical behavior into actionable health insights.
+  - [Live Energy Reports](https://tractian.com/en/solutions/oee/custom-dashboards): See electrical faults as they develop, not after they trip. Current per phase, power quality, and detected faults on one screen with severity tracked from first symptom.
+  - [Utilities & Process Analytics](https://tractian.com/en/solutions/oee/energy-trac): Energy Trac provides real-time, non-invasive energy monitoring, fault detection, cost insights, and alerts to optimize energy efficiency.
+  - [Omni Trac - PLC reader](https://tractian.com/en/solutions/oee/plc-reader): Omni Trac centralizes process monitoring by unifying data from industrial systems (PLCs, legacy protocols, sensors) into a single platform, enabling real-time KPI tracking like OEE, energy efficiency, production targets, and custom metrics for improved operational visibility and reduced downtime.
+
+**CMMS**
+  - [CMMS overview](https://tractian.com/en/glossary/cmms): What is a CMMS and how does Tractian approaches it.
+  - [CMMS software enrichment](https://tractian.com/en/solutions/cmms): Features, security, and trial info.
+  - [Maintenance dashboards & KPIs](https://tractian.com/en/solutions/cmms/maintenance-dashboard-software): Maintenance dashboard offers real-time visibility into key metrics like MTBF, MTTR, costs, reliability, and backlog—configurable across timeframes and locations for benchmarking, financial insights, and operational excellence. 
+  - [Maintenance planning & scheduling](https://tractian.com/en/solutions/cmms/preventive-maintenance-software): Maintenance planning & scheduling work orders, resource allocation, and timelines through intuitive calendar and Gantt views to bulk-schedule tasks, balance workloads.
+  - [Spare parts & management](https://tractian.com/en/solutions/cmms/inventory-management-software): Tractian’s CMMS links inventory with work orders, enabling real-time stock tracking, purchase requisitions and orders, automated restocking to optimize materials availability and control costs. 
+  - [Mobile CMMS App](https://tractian.com/en/solutions/cmms/mobile-app): Mobile-first CMMS app with AI-powered condition monitoring and offline-capable, with work orders, KPIs, chat, QR scanning and full visibility of assets and diagnostics from your phone.
+  - [Work order management & software](https://tractian.com/en/solutions/cmms/work-order-software): Centralizes work orders from request to dispatch to completion, flexible breakdowns, scheduling, mobile and offline execution, stopwatch logs, and ERP integration.
+  - [CMMS integrations](https://tractian.com/en/solutions/integrations): Tractian integrates with ERPs, BI platforms, fleet systems, CRMs, accounting tools, and more using native SQL, REST APIs, and prebuilt connectors for real-time data integration.
+  - [CMMS implementation playbook](https://tractian.com/en/blog/complete-guide-to-implement-cmms-successfully): Step‑by‑step CMMS implementation best practices.
+  - [CMMS benefits](https://tractian.com/en/blog/10-cmms-benefits-to-improve-your-maintenance): CMMS benefits & examples.
+
+## Industries
+- [Manufacturing](https://tractian.com/en/industry/manufacturing-maintenance-software): Tractian empowers manufacturing companies with AI-assisted condition monitoring, CMMS, and energy insights to predict failures, minimize downtime, integrate with ERPs, enhance safety, and deliver ROI like rapid payback and major cost savings.
+- [Chemical](https://tractian.com/en/industry/chemical): Tractian enables AI-assisted maintenance for chemical plants, delivering around 400 % ROI, 23-day payback, 112 extra availability hours per plant, plus reduced preventive costs, lost profits, downtime, and overtime through comprehensive sensor, CMMS, and energy intelligence tools.
+- [Mills & agriculture](https://tractian.com/en/industry/mills-and-agriculture): Tractian brings AI-powered condition monitoring, CMMS, and energy intelligence to mills and ag operations—delivering around 400 % ROI, 25-day payback, and 80 hours of downtime avoided per facility by enabling predictive maintenance across hundreds of assets. 
+- [Food & beverage](https://tractian.com/en/industry/food-and-beverage): Tractian delivers industry-tailored CMMS, sensors, and OEE monitoring to help food and beverage plants minimize unplanned downtime, stay audit-ready, prioritize asset risk, support hygiene-compliant maintenance, and uphold production and quality standards. 
+- [Automotive](https://tractian.com/en/industry/automotive): Tractian delivers AI-powered fault diagnosis and condition monitoring—via Smart Trac sensors, Tractian CMMS, and Energy Trac—to help automotive plants achieve strong ROI (up to 600 %), fast payback (around 29 days), prevent failures, boost safety, control production and avoid downtime. 
+- [Mining](https://tractian.com/en/industry/mining-sector): Tractian empowers mining companies with AI-assisted condition monitoring, CMMS, and energy insights to predict failures, minimize downtime, integrate with ERPs, enhance safety, and deliver ROI like rapid payback and major cost savings.
+- [Oil & Gas](https://tractian.com/en/industry/oil-gas-maintenance-software): Tractian gives oil & gas operators real-time condition monitoring, automated maintenance workflows, and AI-powered alerts to prevent failures, reduce risk, and keep production running safely.
+- [Heavy Equipment](https://tractian.com/en/industry/heavy-equipment-maintenance-software): Tractian solutions combine real-time condition monitoring, vibration sensors, and an AI-powered CMMS so your team can stay ahead of breakdowns, cut repair costs, and keep your machines working hard, wherever the job takes them.
+- [Government & Defense](https://tractian.com/en/industry/government): Tractian has FedRAMP® High Authorization to provide government and defense organizations with asset health intelligence built for mission readiness, delivered with the security, governance, and reliability federal and defense operations require.
+
+## Product Comparisons
+**CMMS Comparisons**
+  - [Tractian vs Limble](https://tractian.com/en/competitors/tractian-vs-limble): Tractian outpaces Limble CMMS by offering richer capabilities—built-in sensors with AI-assisted diagnostics, robust calendar planning with checklists and resource allocation, intuitive UX with smart filters, QR/NFC tags, downtime and reliability reporting, and ISO/SAP-certified integrations—whereas Limble lacks deep automation, planning flexibility, and sensor-driven workflows.
+  - [Tractian vs UpKeep](https://tractian.com/en/competitors/tractian-vs-upkeep): Tractian stands out against UpKeep by offering offline-ready CMMS with AI-assisted diagnostics, NFC tag generation, geolocation, SAP integration, checklist workflows, unlimited requests, and stronger task tracking—all designed for uninterrupted, intuitive maintenance management.
+  - [Tractian vs Fiix](https://tractian.com/en/competitors/tractian-vs-fiix): Tractian outshines Fiix by offering seamless bulk edits, flexible user permissions, unified mobile and desktop experience, superior data integrity, customizable reporting, easy session settings, AI-powered sensors, and integrated energy and maintenance KPIs—all designed to streamline operations where Fiix users often face limitations.
+  - [Tractian vs MaintainX](https://tractian.com/en/competitors/tractian-vs-maintainx): Tractian offers a complete predictive maintenance solution by combining AI-assisted sensors (Smart Trac), real-time CMMS, energy management, advanced KPIs, and mobile EAM in one platform—whereas MaintainX focuses more on frontline work-order simplicity and flexible integrations.
+ 
+**Sensors Comparisons**
+  - [Tractian vs Augury](https://tractian.com/en/competitors/tractian-vs-augury): Tractian outperforms Augury by delivering a unified platform with AI-driven vibration sensors, real-time analytics, predictive failures detection, and superior usability—giving maintenance teams unmatched transparency and insight into machine health.
+  - [Tractian vs Waites](https://tractian.com/en/competitors/tractian-vs-waites): Tractian stands out over Waites by providing advanced analytics and real-time reliability metrics from AI-powered vibration sensors, plus exceptional user-friendliness—making maintenance more intuitive and insightful.
+
+## Free Resources
+**Guides & tools**
+  - [How AI-Powered CMMS Boosts Maintenance Efficiency](https://tractian.com/en/resources/guides/free-cmms-guide): Tractian delivers a free CMMS ebook that helps teams migrate from spreadsheets to reliable CMMS with features like offline work orders, SOPs, inventory integration, dashboards, and a digital maturity checklist. 
+  - [The Maintenance Manager's Role in Digital Transformation](https://tractian.com/en/resources/guides/the-managers-role-in-digital-transformation): Tractian shows how maintenance managers drive digital transformation by leveraging CMMS, sensors, and OEE tools to boost efficiency, innovation, and reliability.
+  - [Predictive Maintenance guide](https://tractian.com/en/resources/guides/predictive-maintenance): Tractian explains the benefits of shifting from reactive to predictive maintenance using data and sensors to cut crashes and improve uptime.
+  - [Implementing 4.0 Projects on Maintenance guide](https://tractian.com/en/resources/guides/implementing-projects): Tractian guides how to launch Industry 4.0 maintenance projects that eliminate failures and achieve over 90% asset availability.
+  - [Vibration Sensors: Buyer's Guide](https://tractian.com/en/resources/guides/traps-vibration-sensor): Tractian provides expert advice on choosing vibration sensors to enhance asset performance and downtime prevention.
+  - [Maintenance Data Driven Decision Guides](https://tractian.com/en/resources/guides/data-driven-decision-the-complete-guide): Tractian equips maintenance teams with essential data-driven strategies and tools to elevate decision-making and operational outcomes.
+  - [Maintenance KPIs Guide](https://tractian.com/en/resources/guides/maintenance-indicators): Tractian demystifies maintenance indicators like MTTR and MTBF so managers can measure and improve reliability effectively.
+  - [Different Types of Maintenance Guide](https://tractian.com/en/resources/guides/types-of-maintenance-the-complete-guide): Tractian covers core maintenance strategies—corrective, preventive, predictive, proactive—showing how each fits into a smarter maintenance framework.
+  - [EAM Software: A Guide for Maintenance Managers](https://tractian.com/en/resources/guides/eam-software-a-guide-for-maintenance-managers): Tractian outlines how EAM software empowers maintenance managers to enhance reliability, availability, and operational control.
+  - [Electric Motors Guide](https://tractian.com/en/resources/guides/electric-motors): Tractian explores electric motor functionality, common failure modes, and diagnostic strategies for better maintenance. 
+  - [Vibration Monitoring and Analysis Guide](https://tractian.com/en/resources/guides/vibration-monitoring-and-analysis): Tractian explains how vibration monitoring helps detect equipment issues early to avoid downtime and production losses.
+  - [Zero Downtime Guide](https://tractian.com/en/resources/guides/in-search-of-zero-downtime): Tractian presents strategies and tools to move beyond reactive maintenance toward achieving zero unplanned downtime.
+  - [Bathtub Curve Guide](https://tractian.com/en/resources/guides/bathtub-curve): Tractian explains the bathtub curve theory to understand asset failure patterns and optimize maintenance strategies.
+  - [Maintenance Plan Calendar](https://tractian.com/en/resources/templates/spreadsheet-calendar-maintenance-plan): Tractian offers a 52-week calendar spreadsheet to schedule preventive maintenance, inspections, and predictive data collections. 
+  - [FMEA Spreadsheet](https://tractian.com/en/resources/templates/spreadsheet-fmea): Tractian provides an editable spreadsheet for Failure Modes and Effects Analysis to help teams identify, prioritize, and mitigate asset risks.
+  - [Reliability-Centered Maintenance](https://tractian.com/en/resources/templates/spreadsheet-reliability-centered-maintenance): Tractian’s spreadsheet guides teams through implementing RCM practices to maximize asset reliability and optimize maintenance resources.
+  - [Budget Spreadsheet](https://tractian.com/en/resources/templates/spreadsheet-budget): A ready-to-use spreadsheet to plan, track, and control annual maintenance expenses, enabling better cost management. 
+  - [Action Plan](https://tractian.com/en/resources/templates/spreadsheet-action-plan): Tractian offers a structured action plan spreadsheet for defining tasks, responsibilities, and deadlines in maintenance projects.
+  - [ABC Curve and Inventory Control](https://tractian.com/en/resources/templates/spreadsheet-abc-curve-inventory-control): Spreadsheet template to perform ABC inventory classification for optimized parts management and cost control. 
+  - [PDCA Spreadsheet](https://tractian.com/en/resources/templates/spreadsheet-pdca): Tractian’s PDCA cycle spreadsheet supports continuous improvement in maintenance processes through structured planning and execution. 
+  - [Maintenance Management and Work Order Control Template](https://tractian.com/en/resources/templates/spreadsheet-maintenance-management): A complete spreadsheet to centralize maintenance scheduling, work orders, and cost tracking.
+  - [Priority Matrix (GUT)](https://tractian.com/en/resources/templates/spreadsheet-priority-matrix-gut): Tractian provides a GUT matrix spreadsheet to rank maintenance priorities based on severity, urgency, and trend.
+  - [Maintenance Indicators](https://tractian.com/en/resources/templates/spreadsheet-maintenance-indicators): A KPI tracking spreadsheet to calculate and monitor MTBF, MTTR, and other performance metrics.
+  - [Power Load Spreadsheet](https://tractian.com/en/resources/templates/spreadsheet-power-load): Spreadsheet to calculate and analyze electrical power load for energy efficiency and equipment safety. 
+  - [Energy Management Spreadsheet](https://tractian.com/en/resources/templates/spreadsheet-energy-management): Template to track and optimize energy consumption across equipment and facilities. 
+  - [Free Maintenance and Management Resources](https://tractian.com/en/resources): Tractian’s general work order template helps standardize maintenance requests and task execution. 
+  - [Free Inspection Work Order Template](https://tractian.com/en/resources/templates/inspection): Template to document, track, and complete inspection-related maintenance activities. 
+  - [Free Preventive Maintenance Work Order Template](https://tractian.com/en/resources/templates/preventive-maintenance): Preventive maintenance work order template to schedule and track recurring asset care tasks.
+  - [Free Corrective Maintenance Work Order Template](https://tractian.com/en/resources/templates/corrective-maintenance): Template to log and manage corrective maintenance tasks from issue detection to resolution.
+  - [Free General Maintenance Work Order Template](https://tractian.com/en/resources/templates/general-maintenance): Flexible work order form for varied maintenance needs across assets and facilities. 
+  - [Free Proactive Maintenance Work Order Template](https://tractian.com/en/resources/templates/proactive-maintenance): Template for proactive maintenance activities aimed at preventing asset degradation.
+  - [Free Electrical Maintenance Work Order Template](https://tractian.com/en/resources/templates/electrical-maintenance): Specialized work order template for electrical system inspections, repairs, and upgrades.
+  - [Free Accident Prevention Checklist](https://tractian.com/en/resources/checklists/accident-prevention): Checklist to ensure workplace safety protocols are in place to prevent accidents.
+  - [Free Food Safety Checklist](https://tractian.com/en/resources/checklists/food-safety): Maintenance and hygiene checklist to meet food industry safety regulations.
+  - [Free Health and Safety Risk Assessment Checklist](https://tractian.com/en/resources/checklists/health-and-safety-risk-assessment): Tool to identify, assess, and control workplace health and safety hazards.
+  - [Free Hygiene and PPE Care Checklist](https://tractian.com/en/resources/checklists/hygiene-and-ppe-care): Checklist to ensure proper cleaning practices and maintenance of personal protective equipment.
+  - [Free Industrial Process Checklist](https://tractian.com/en/resources/checklists/industrial-processes): Checklist for monitoring and maintaining efficiency in industrial process operations.
+  - [Free Machine Safety Checklist](https://tractian.com/en/resources/checklists/machine-safety): Inspection checklist to ensure machines are operated and maintained safely.
+  - [Free OSHA Safety Checklist](https://tractian.com/en/resources/checklists/osha-maintenance): OSHA-compliant checklist for safe and compliant maintenance practices.
+  - [Free Outsourcing Services Checklist](https://tractian.com/en/resources/checklists/outsourcing-services): Checklist to manage and evaluate outsourced maintenance service providers.
+  - [Free Quality Management Checklist](https://tractian.com/en/resources/checklists/quality-management): Checklist to align maintenance practices with quality management standards.
+  - [Free Goods Received Checklist](https://tractian.com/en/resources/checklists/goods-receiving): Checklist to inspect and verify goods received for maintenance operations.
+
+**Free Maintenance Calculators**
+  - [Free maintenance calculators](https://tractian.com/en/resources/calculators/maintenance-calculators): Tractian offers free maintenance calculators—covering metrics like OEE, MTTR, MTBF, MTTF, PMP, wrench time, downtime, maintenance cost ratios, and more—to help teams instantly track KPIs, estimate costs, and boost operational efficiency. 
+  - [Free ROI calculator](https://tractian.com/en/resources/calculators/roi-calculator): Tractian offers two free ROI calculators—one for online condition monitoring (vibration/temperature sensors) and another for asset management—that help industries identify bottlenecks, estimate maintenance cost savings, and reveal potential returns of up to 6× with payback in under four months. 
+
+## Maintenance Concepts
+**Maintenance Strategies**
+  - [Types of Maintenance](https://tractian.com/en/blog/types-of-maintenance): Four core maintenance types—corrective, preventive (time- and condition-based), predictive, and proactive—showing how blending them using data-driven tools enables smarter, more efficient, and less reactive maintenance strategies 
+
+## Trust & legal
+- [Trust Center](https://trust.tractian.com/): Security, compliance, and certifications.
+- [Privacy policy](https://tractian.com/en/policies/privacy): Personal data processing.
+- [Quality policy](https://tractian.com/en/policies/quality): Quality management commitments.
+- [Master License and Service Agreement](https://tractian.com/en/master-license): Commercial terms.
+- [Hosted Software SLA](https://tractian.com/en/service-level-agreement): Service levels and uptime.
+
+## Sitemaps
+- [Sitemap (PT‑BR)](https://tractian.com/sitemap.xml)
+- [Sitemap (EN)](https://tractian.com/sitemap-en.xml)
+- [Sitemap (ES)](https://tractian.com/sitemap-es.xml)

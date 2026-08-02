@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://trust.tractian.com/
+platform: Vanta Trust Center
+certifications:
+  - FedRAMP High
+  - SOC 2 Type II
+  - ISO 27001
+evidence:
+  - source: https://trust.tractian.com/
+    kind: trust-center
+    notes: >-
+      Vanta-hosted "Tractian Trust Center" (assets.vanta.com trust-report app;
+      canonical https://trust.tractian.com). Meta description commits to
+      protecting customer data through technical controls in compliance with
+      regulatory and legal requirements.
+  - source: https://tractian.com/en/industry/government
+    kind: compliance-claims
+    notes: >-
+      Government & Defense page states "FedRAMP High Authorization", "SOC 2
+      Type II Compliance", and "ISO 27001-Certified", with deployment in AWS
+      GovCloud (FedRAMP High) and air-gapped/disconnected ATO options.
+  - source: llms/tractian-llms.txt
+    kind: llms-txt
+    notes: >-
+      Tractian's own llms.txt lists the Trust Center under "Trust & legal" as
+      "Security, compliance, and certifications."

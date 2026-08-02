@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://tractian.com/en/service-level-agreement
+description: >-
+  Operational lifecycle surface for the Tractian hosted platform, captured from
+  the published Hosted Software SLA, the Better Stack status page, and the
+  product releases feed. No public API versioning or deprecation policy was
+  found (the API reference at api.tractian.com/docs is customer-gated, 401).
+sla:
+  url: https://tractian.com/en/service-level-agreement
+  uptime_target: "99.70%"
+  notes: >-
+    Monthly Availability Percentage of at least 99.70% ("Service Level
+    Guarantee") under the Master Service Agreement
+    (https://tractian.com/en/master-license); service credits are granted as
+    additional license days on tiers below the guarantee.
+status_page: https://status.tractian.com
+status_page_platform: Better Stack
+release_notes: https://tractian.com/en/blog/categories/releases
+versioning:
+  scheme: null
+  notes: >-
+    api.tractian.com reports "version": "v1" on its public health endpoint;
+    no public versioning policy is documented.
+deprecation:
+  policy_url: null
+  sunset_header: null
+  notes: No public deprecation policy found.
+deprecated_operations: []

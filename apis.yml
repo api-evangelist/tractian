@@ -1,27 +1,107 @@
 aid: tractian
 name: Tractian
-description: Tractian is a company surfaced as a portfolio company of general-catalyst, sapphire-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Tractian is a machine intelligence company providing condition monitoring,
+  asset performance management, and predictive maintenance for industrial
+  operations. Smart Trac sensors capture real-time vibration, temperature, and
+  energy data over LTE; patented AI analytics auto-diagnose over 75 failure
+  modes, predict failures, and prescribe actions; and the Tractian CMMS manages
+  work orders, spare parts inventory, maintenance scheduling, and maintenance
+  KPI reporting. The platform integrates with ERPs, BI tools, and fleet systems
+  through native SQL access, prebuilt connectors, and REST APIs, and is
+  FedRAMP High authorized, SOC 2 Type II compliant, and ISO 27001 certified.
 url: https://raw.githubusercontent.com/api-evangelist/tractian/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - general-catalyst
 - sapphire-ventures
-x-tier: stub
-x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
-- Company
-apis: []
+- Condition Monitoring
+- Predictive Maintenance
+- CMMS
+- Asset Management
+- Industrial IoT
+- Sensors
+- Energy Monitoring
+- Manufacturing
+image: https://avatars.githubusercontent.com/u/63681035
+apis:
+- name: Tractian Platform API
+  description: >-
+    REST API behind the Tractian platform, used for ERP, BI, and business-system
+    integrations alongside native SQL access and prebuilt connectors. The API
+    host is live (public health endpoint reporting v1) but the interactive API
+    reference at api.tractian.com/docs is customer-gated (observed 401
+    Unauthorized), so no public OpenAPI is available to harvest.
+  humanURL: https://tractian.com/en/solutions/integrations
+  baseURL: https://api.tractian.com
+  tags:
+  - CMMS
+  - Condition Monitoring
+  - Integrations
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/tractian-domain-security.yml
 - type: Website
   url: https://tractian.com/en
+- type: Blog
+  url: https://tractian.com/en/blog
+- type: ChangeLog
+  url: https://tractian.com/en/blog/categories/releases
+- type: ChangeLog
+  url: changelog/tractian-changelog.yml
+- type: GitHubOrganization
+  url: https://github.com/tractian
+- type: Support
+  url: https://tractian.com/en/contact
+- type: Pricing
+  url: https://tractian.com/en/solutions/cmms/pricing
+- type: Login
+  url: https://app.tractian.com/login
+- type: TermsOfService
+  url: https://tractian.com/en/master-license
+- type: PrivacyPolicy
+  url: https://tractian.com/en/policies/privacy
+- type: StatusPage
+  url: https://status.tractian.com
+- type: ServiceLevelAgreement
+  url: https://tractian.com/en/service-level-agreement
+- type: TrustCenter
+  url: security/tractian-trust-center.yml
+- type: Compliance
+  url: https://trust.tractian.com/
+- type: Conformance
+  url: conformance/tractian-conformance.yml
+- type: Lifecycle
+  url: lifecycle/tractian-lifecycle.yml
+- type: WellKnown
+  url: well-known/tractian-well-known.yml
+- type: Packages
+  url: packages/tractian-packages.yml
+- type: LLMsTxt
+  url: llms/tractian-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 8
+  pass: local-v1

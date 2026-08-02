@@ -1,0 +1,57 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for the Tractian web,
+  API, and app hosts. Status is the HTTP code observed at fetch time. No real
+  well-known documents were found: tractian.com and api.tractian.com answer 404
+  for every path, and app.tractian.com answers 200 with a text/html SPA shell
+  for every /.well-known/ path, so those are recorded as present-but-not-a-real-
+  document and not saved. Note that https://tractian.com/llms.txt IS published
+  (captured verbatim in llms/tractian-llms.txt).
+hosts:
+  - host: https://tractian.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://api.tractian.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://app.tractian.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        type: text/html
+        note: SPA shell, not a real security.txt; not saved.
+      - path: /.well-known/openid-configuration
+        status: 200
+        type: text/html
+        note: SPA shell, not a real OIDC discovery document; not saved.
+      - path: /.well-known/oauth-authorization-server
+        status: 200
+        type: text/html
+        note: SPA shell, not a real document; not saved.
+      - path: /.well-known/api-catalog
+        status: 200
+        type: text/html
+        note: SPA shell, not a real API catalog; not saved.
+      - path: /.well-known/ai-plugin.json
+        status: 200
+        type: text/html
+        note: SPA shell, not a real ai-plugin manifest; not saved.

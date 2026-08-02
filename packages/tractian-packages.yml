@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Search of public package registries and the Tractian GitHub org for
+  first-party client libraries. None were found: Tractian publishes no official
+  SDK packages. The github.com/tractian org (6 public repos) contains only
+  Flutter library forks and a hiring challenges repo. The only npm hit,
+  trac-icons ("The TRACTIAN icons library", published by an individual
+  account), is an internal icons library, not an API client, so it is not
+  recorded as an official SDK. Tractian's integration surface is positioned as
+  native SQL access, prebuilt ERP/BI connectors, and REST APIs gated behind the
+  customer platform (api.tractian.com answers 401 for /docs).
+registries_searched:
+  - npm
+  - pypi
+  - github.com/tractian
+packages: []
