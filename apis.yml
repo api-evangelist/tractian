@@ -53,6 +53,10 @@ apis:
   tags:
   - CMMS
   - Condition Monitoring
+  - Integration
+  tags_raw:
+  - CMMS
+  - Condition Monitoring
   - Integrations
 maintainers:
 - FN: Kin Lane
